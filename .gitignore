@@ -1,0 +1,10 @@
+.env
+*.env
+.env.*
+logs/
+airflow.db
+__pycache__/
+*.docx
+*.log
+docker-compose.local.yaml
+data/*.csv

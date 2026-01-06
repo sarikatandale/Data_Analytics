@@ -1,0 +1,10 @@
+name: hospice_adc
+version: '1.0'
+profile: snowflake
+
+models:
+  hospice_adc:
+    staging:
+      materialized: view
+    marts:
+      materialized: table

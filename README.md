@@ -1,0 +1,1 @@
+Developed an Airflow-orchestrated Snowflake pipeline in Python to compute hospice Average Daily Census (ADC) metrics from patient census data supporting data-driven decision-making for hospice care operations.
